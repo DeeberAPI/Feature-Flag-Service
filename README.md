@@ -1,1 +1,2 @@
+# Feature-Flag-Service
 Simple Feature Flag API built with Node.js and Express. Supports creating, updating, deleting, and retrieving feature flags stored in a JSON file. Demonstrates REST API design, state persistence, and backend logic similar to PostHog’s feature management system.
